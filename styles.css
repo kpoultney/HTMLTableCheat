@@ -1,0 +1,49 @@
+* {
+font-family: Tahoma, sans serif;
+}
+
+body {
+  background-color: papayawhip;
+}
+
+div {
+  background-color: peachpuff;
+  border: tomato dotted 5px;
+}
+
+h1 {
+font-weight: bold;
+color: tomato; 
+text-align: center;
+}
+
+h2 {
+  font-family: Times, serif;
+font-style: italic;
+text-align: center;
+color: coral;
+}
+
+table { 
+  border: solid tomato 5px;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+td {
+  border-bottom: solid coral 1px;
+  padding: 5px;
+  text-align: center;
+}
+
+thead {
+  font-weight: bold;
+  background-color: coral;
+}
+
+#first {
+  background-color: papayawhip;
+  font-family: courier;
+}
